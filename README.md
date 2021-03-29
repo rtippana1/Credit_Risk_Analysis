@@ -11,7 +11,7 @@ Balanced Accuracy Score: 64%
 Precision Score: 1%
 Recall score: 63%
 
-![Random Over Sampler]
+![Random Over Sampler](https://github.com/rtippana1/Credit_Risk_Analysis/blob/main/Images/Random%20Over%20Sampler.png)
 
 #### Smote
 
@@ -19,7 +19,7 @@ Balanced Accuracy Score: 63%
 Precision Score: 1%
 Recall score: 57%
 
-![Smote]
+![Smote](https://github.com/rtippana1/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Oversampling.png)
 
 #### Cluster Centroids
 
@@ -27,7 +27,7 @@ Balanced Accuracy Score: 51%
 Precision Score: 1%
 Recall score: 60%
 
-![Cluster Centroids]
+![Cluster Centroids](https://github.com/rtippana1/Credit_Risk_Analysis/blob/main/Images/Cluster%20Centroids.png)
 
 #### Smoteenn
 
@@ -35,7 +35,7 @@ Balanced Accuracy Score: 63%
 Precision Score: 1%
 Recall score: 70%
 
-![Smoteenn]
+![Smoteenn](https://github.com/rtippana1/Credit_Risk_Analysis/blob/main/Images/SMOTEENN%20.png)
 
 #### Balanced Random Forest Classifier
 
@@ -43,7 +43,7 @@ Balanced Accuracy Score: 79%
 Precision Score: 4%
 Recall score: 67%
 
-![Balanced Random Forest Classifier]
+![Balanced Random Forest Classifier](https://github.com/rtippana1/Credit_Risk_Analysis/blob/main/Images/Balanced%20Random%20Forest%20Classifier.png)
 
 
 #### Easy Ensemble Classifier
@@ -52,7 +52,7 @@ Balanced Accuracy Score: 93%
 Precision Score: 7%
 Recall score: 91%
 
-![Easy Ensemble Classifier]
+![Easy Ensemble Classifier](https://github.com/rtippana1/Credit_Risk_Analysis/blob/main/Images/Easy%20Ensemble%20AdaBoost%20classifier.png)
 
 ## Summary of the Results
 
