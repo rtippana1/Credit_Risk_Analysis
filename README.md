@@ -8,8 +8,9 @@ Application of machine learning to evaluate credit card risk by employing differ
 #### Random Over Sampler
 
 Balanced Accuracy Score: 64%
+
 Precision Score: 1%
-Recall score: 63%
+Recall score: 62%
 
 ![Random Over Sampler](https://github.com/rtippana1/Credit_Risk_Analysis/blob/main/Images/Random%20Over%20Sampler.png)
 
