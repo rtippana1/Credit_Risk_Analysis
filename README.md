@@ -7,25 +7,25 @@ Application of machine learning to evaluate credit card risk by employing differ
 
 #### Random Over Sampler
 
-Balanced Accuracy Score: 65%
-Precision Score: 1%
-Recall score: 62%
+Balanced Accuracy Score:- 65%
+Precision Score:- 1%
+Recall score:- 62%
 
 ![Random Over Sampler](https://github.com/rtippana1/Credit_Risk_Analysis/blob/main/Images/Random%20Over%20Sampler.png)
 
 #### Smote
 
-Balanced Accuracy Score: 64%
-Precision Score: 1%
-Recall score: 63%
+Balanced Accuracy Score:- 64%
+Precision Score:- 1%
+Recall score:- 63%
 
 ![Smote](https://github.com/rtippana1/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Oversampling.png)
 
 #### Cluster Centroids
 
-Balanced Accuracy Score: 52%
-Precision Score: 1%
-Recall score: 61%
+Balanced Accuracy Score:- 52%
+Precision Score:- 1%
+Recall score:- 61%
 
 ![Cluster Centroids](https://github.com/rtippana1/Credit_Risk_Analysis/blob/main/Images/Cluster%20Centroids.png)
 
