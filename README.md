@@ -23,7 +23,7 @@ Recall score: 63%
 
 #### Cluster Centroids
 
-Balanced Accuracy Score:- 52%
+Balanced Accuracy Score: 52%
 Precision Score:- 1%
 Recall score:- 61%
 
